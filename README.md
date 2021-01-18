@@ -1,0 +1,2 @@
+# theFirstBotkage
+ The Discord Bot
