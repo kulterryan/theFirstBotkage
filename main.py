@@ -3,7 +3,6 @@
 
 # importing libraries
 
-from operator import index
 import discord # library of Discord.Py
 import os # for importing token
 import requests # for making HTTP Requests for API
@@ -26,7 +25,7 @@ def get_quote():
     return(quote)
 
 # defining get_sad_words list function for Messages
-sad_words = ["sad", "depressed", "unhappy", "angry", "miserable"]
+sad_words = ["sad", "fuck", "depressed", "unhappy", "angry", "miserable"]
 
 starter_encouragements = [
     "Cheer up!",
